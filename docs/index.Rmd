@@ -94,11 +94,185 @@ background-size: cover
 
 ## Course layout
 
-| Group | Discussed techniques |
+| Lectures and seminars | Discussed topics |
 |------------|----------------------------------------|
+| Precision Medicine | Definition, '4P' Medicine |
+| Biomarkers | Traditional biomarkers, imaging biomarkers, digital biomarkers |
+| Biomarkers | Diagnostic, predictive, prognostic biomarkers; specificity, sensitivity, confusion table, ROC, AUC |
+| Big data & 'omics' | Definitions, examples |
 | Ordination | PCA, cMDS, non-metric MDS, t-SNE, UMAP |
-| Clustering | hierarchical clustering, partitional clustering, fuzzy clustering |
-| Regression | Linear regression, logistic regression |
-| Classification | Logistic regression, random forest |
+| Clustering | Hierarchical clustering, partitional clustering, fuzzy clustering |
+| Regression | Linear regression, gradient descent, cross-validation |
+| Classification | PPV, NPV, logistic regression, random forest |
 
 .footnote[N. Dauletbayev, 21/12/2023]
+
+---
+
+background-image: url("NurlanDauletbayev_SecondPageImage_2023-12-21.png")
+background-size: cover
+
+## Course philosophy
+
+### ... is based on Miller's
+### pyramid ...
+
+<img src = "millers-pyramid-mc-slide1.png" 
+      width = "700px" height = "400px"
+      style = "position: absolute; left: 430px; top: 125px;">
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+
+.right[
+.tiny[image from: https://in.pinterest.com/pin/millers-pyramid-powerpoint-slide]
+]
+
+.footnote[N. Dauletbayev, 21/12/2023]
+
+---
+
+background-image: url("NurlanDauletbayev_SecondPageImage_2023-12-21.png")
+background-size: cover
+
+## Course philosophy
+
+### ... and Bloom's
+### taxonomy
+
+<img src = "Blooms_taxonomy.png" 
+      width = "700px" height = "400px"
+      style = "position: absolute; left: 430px; top: 125px;">
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+
+.right[
+.tiny[image from: https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/]
+]
+
+.footnote[N. Dauletbayev, 21/12/2023]
+
+---
+
+background-image: url("NurlanDauletbayev_SecondPageImage_2023-12-21.png")
+background-size: cover
+
+## I am not a mathematician ...
+
+--
+
+<img src = "Iamnotamathematician.jpg" 
+      width = "550px" height = "500px"
+      style = "position: absolute; left: 350px; top: 90px;">
+
+.footnote[N. Dauletbayev, 21/12/2023]
+
+---
+
+background-image: url("NurlanDauletbayev_SecondPageImage_2023-12-21.png")
+background-size: cover
+
+## I am not a mathematician ...
+
+### ... so our course will be built around 
+
+- medical use cases
+
+- some theory and 
+
+- a lot of testing the methodology in R
+
+.footnote[N. Dauletbayev, 21/12/2023]
+
+---
+
+background-image: url("NurlanDauletbayev_SecondPageImage_2023-12-21.png")
+background-size: cover
+
+## This course aims
+
+### ... to provide you with "building blocks"
+
+- motivation
+
+- knowledge 
+
+- experience 
+
+### for an easier start of your projects!
+
+.footnote[N. Dauletbayev, 21/12/2023]
+
+--
+
+<img src = "buldingblocks.jpg" 
+      width = "325px" height = "275px"
+      style = "position: absolute; left: 750px; top: 100px;">
+
+&nbsp;
+
+&nbsp;
+
+
+.right[
+.tiny[image from: https://www.holz-spiel.com/catalog/products/paw-patrol-holz-abc-block-truck]
+]
+
+.footnote[N. Dauletbayev, 21/12/2023]
+
+---
+
+
+background-image: url("NurlanDauletbayev_SecondPageImage_2023-12-21.png")
+background-size: cover
+
+## Practice makes the master!
+
+<img src = "PracticeMakes.jpg" 
+      width = "900px" height = "450px"
+      style = "position: absolute; left: 150px; top: 100px;">
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+.right[
+.tiny[image from: https://www.holz-spiel.com/catalog/products/paw-patrol-holz-abc-block-truck]
+]
+
+
+.footnote[N. Dauletbayev, 21/12/2023]
+
